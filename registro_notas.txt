@@ -1,0 +1,11 @@
+Fecha: 2024-11-29
+Nombre: sandro rodriguez
+Curso: fundamentos
+Promedio: 14.50
+Condición: Aprobado
+------------------------------
+Fecha: 2024-11-29
+Nombre: sandro
+Curso: fu
+Promedio: 14.50
+Condición: Aprobado

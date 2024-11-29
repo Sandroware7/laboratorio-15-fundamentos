@@ -1,0 +1,27 @@
+
+Fecha: 2024-11-29
+Producto: detergente
+Precio: 23.0
+Cantidad: 4
+Subtotal: 92.00
+IGV (18%): 16.56
+Total: 108.56
+------------------------------
+
+Fecha: 2024-11-29
+Producto: embutido
+Precio: 14.0
+Cantidad: 3
+Subtotal: 42.00
+IGV (18%): 7.56
+Total: 49.56
+------------------------------
+
+Fecha: 2024-11-29
+Producto: pan
+Precio: 0.2
+Cantidad: 200
+Subtotal: 40.00
+IGV (18%): 7.20
+Total: 47.20
+------------------------------
